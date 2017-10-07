@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cropper", "Cropper\Cropper.csproj", "{3A9881D8-7243-492D-A754-238453388EEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserRectDemo", "..\..\UserRectDemo\UserRectDemo.csproj", "{FDE2477D-82C7-4C90-8826-C14145AD6C6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A9881D8-7243-492D-A754-238453388EEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A9881D8-7243-492D-A754-238453388EEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A9881D8-7243-492D-A754-238453388EEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A9881D8-7243-492D-A754-238453388EEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDE2477D-82C7-4C90-8826-C14145AD6C6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDE2477D-82C7-4C90-8826-C14145AD6C6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDE2477D-82C7-4C90-8826-C14145AD6C6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDE2477D-82C7-4C90-8826-C14145AD6C6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
